@@ -1,4 +1,12 @@
-NOTE: To run locally, create a .env file in the project's root folder (dia-co/) with your API key as the value for the variable REACT_APP_API_KEY.
+## Special Notes for Dia&Co
+
+To run locally, create a .env file in the project's root folder (dia-co/) with your API key as the value for the variable REACT_APP_API_KEY.
+
+You may clone this repo and run 
+### npm start 
+for a development build, or run 
+### npm run build 
+to create the production build.
 
 The normal Create React App boilerplate is below.
 
