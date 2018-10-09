@@ -1,3 +1,9 @@
+NOTE: To run locally, create a .env file in the project's root folder (dia-co/) with your API key as the value for the variable REACT_APP_API_KEY.
+
+The normal Create React App boilerplate is below.
+
+===============
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
