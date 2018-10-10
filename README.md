@@ -3,10 +3,16 @@
 To run locally, create a .env file in the project's root folder (dia-co/) with your API key as the value for the variable REACT_APP_API_KEY.
 
 You may clone this repo and run 
-### npm start 
+### npm install
+to install the necessary modules, then run either
+### npm start
 for a development build, or run 
 ### npm run build 
 to create the production build.
+
+You will need to serve the static files for the production build. The simplest way would be to run
+### npm install -g serve
+### serve -s build
 
 The normal Create React App boilerplate is below.
 
